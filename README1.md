@@ -1,6 +1,8 @@
 # macs30100_project1_Violet Huang_April Wang_Zenthia Song
 
-Customer Segmentation Classification project for MACS 30100
+Customer Segmentation Classification project
+
+Recorded presentation [Here](https://drive.google.com/file/d/1UERc013z4HQdomcydSXWociRrg84hWBY/view?usp=sharing)
 
 ## Task:
 We aim to train a multi-class classification model to divide new customers into existing segments (A, B, C, D)  for a automobile company to predict the potential groups of new customers.
